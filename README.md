@@ -6,9 +6,9 @@
 
 In the first terminal
 
-cd Brand-Product
-npm install 
-npm run dev
++ cd Brand-Product
++ npm install 
++ npm run dev
 
 
 
