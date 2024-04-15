@@ -1,5 +1,9 @@
 # Brand Product
 
+## Sceenshot
+![zara](https://github.com/Vandana915/Brand-Product/assets/124566666/d9cfad43-9561-46a5-af13-d1f3f0eea8d6)
+
+
 In the first terminal
 
 cd Brand-Product
